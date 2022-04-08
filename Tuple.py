@@ -1,0 +1,7 @@
+mytuple=("Eng","Math","SS","Sci","Math","50","40","50")
+print("Duplicate allows",mytuple)
+print("Lenghth of tuple",len(mytuple))
+mytupl=tuple(("Eng","Math","SS","Sci"))
+print("using tuple method",mytupl)
+indx=mytuple.index("40")
+print("Position:-",indx)
