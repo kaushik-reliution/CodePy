@@ -25,8 +25,7 @@ def temp(var):
 
 a=input("Enter value  ")
 h=temp(a)
-h=temp.__name__
-print("error",h)
+print("This is ",h)
 
 
 
