@@ -23,7 +23,7 @@ def temp(var):
    except ValueError as Argument:
       print("This argument does not contain numbers \n ",Argument)
 
-a=input("Enter value  ")
+a=input("Enter ")
 h=temp(a)
 print("This is ",h)
 
